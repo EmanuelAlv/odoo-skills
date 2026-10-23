@@ -18,6 +18,13 @@ Solo una skill:
 npx skills add EmanuelAlv/odoo-skills --skill odoo-module-icons
 ```
 
+O directo desde npm (Claude Code):
+
+```bash
+npx odoo-module-icons            # global: ~/.claude/skills/
+npx odoo-module-icons --project  # proyecto: ./.claude/skills/
+```
+
 ## Skills
 
 ### `odoo-module-icons`
